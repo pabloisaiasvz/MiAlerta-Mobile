@@ -1,0 +1,42 @@
+<resources>
+<string name="app_name">TPFinal-PabloVelazquez</string>
+    <string name="spanish">Español</string>
+    <string name="english">Inglés</string>
+
+<string name="send_alert">ENVIAR ALERTA</string>
+<string name="my_alerts">Mis Alertas</string>
+<string name="alert_details">Detalles de la alerta</string>
+<string name="incident_map">Mapa del incidente</string>
+<string name="incident_photo">Foto tomada en el incidente</string>
+<string name="subscribed_alerts">Alertas Suscritas</string>
+<string name="settings">Configuración</string>
+<string name="logout">Cerrar sesión</string>
+<string name="your_hash">Tu hash de usuario</string>
+<string name="subscribe_to_alerts">Suscribirse a alertas de otro usuario</string>
+<string name="paste_hash_here">Pegá el hash aquí</string>
+<string name="subscribe">Suscribirse</string>
+<string name="view_subscriptions">Ver mis suscripciones</string>
+<string name="language">Idioma</string>
+    <string name="dark_theme">Tema</string>
+    <string name="commentary">Comentario</string>
+
+<!-- Login -->
+<string name="login">Iniciar sesión</string>
+<string name="email">Email</string>
+<string name="password">Contraseña</string>
+<string name="enter">Entrar</string>
+<string name="no_account_yet">Aún no tienes cuenta? Regístrate aquí</string>
+
+<!-- Registro -->
+<string name="first_name">Nombre</string>
+<string name="last_name">Apellido</string>
+<string name="create_account">Crear cuenta</string>
+<string name="already_have_account">Ya tengo una cuenta, Iniciar sesión</string>
+
+<!-- Mensajes / Toasts -->
+<string name="hash_copied">Hash copiado al portapapeles</string>
+<string name="invalid_hash">Por favor, ingresá un hash válido</string>
+<string name="cannot_subscribe_own">No podés suscribirte a tu propio hash</string>
+<string name="subscribed_success">Suscripto correctamente</string>
+<string name="subscription_error">Error al suscribirse</string>
+</resources>

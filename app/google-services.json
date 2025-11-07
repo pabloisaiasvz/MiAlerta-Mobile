@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202212552425",
+    "project_id": "tpfinal-pablovelazquez",
+    "storage_bucket": "tpfinal-pablovelazquez.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202212552425:android:7b50d434245ffa2bc5ca78",
+        "android_client_info": {
+          "package_name": "com.example.tpfinal_pablovelazquez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVeq3PnX_HDxdu4IgUE2-ytaMpmnS82zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
