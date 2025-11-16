@@ -1,37 +1,41 @@
-MiAlerta Mobile
+# MiAlerta Mobile
 
-MiAlerta Mobile is a native Android app built with Kotlin, using Firebase for backend services and Room for local persistence. It allows users to quickly create and share alerts enriched with contextual information.
+**MiAlerta Mobile** is a native Android application built in **Kotlin**, designed for quick reporting and sharing of alerts enriched with GPS data, photos, and user input.
 
-Features
+---
 
-Alert creation: saves GPS location, photo, timestamp, and optional comment.
+## 🚀 Features
 
-User subscriptions: follow other users and receive their alerts.
+- **Alert Creation**
+  - GPS location capture  
+  - Photo attachment  
+  - Automatic timestamp  
+  - Optional comment field  
 
-Localization: Spanish and English support.
+- **User Subscriptions**
+  - Follow other users  
+  - View alerts from subscribed contacts  
 
-Authentication: Firebase login and secure session management.
+- **Multilanguage Support**
+  - English  
+  - Spanish  
 
-Local storage: offline persistence through Room.
+- **Authentication**
+  - Secure login via **Firebase Authentication**
 
-Tech Stack
+- **Local Persistence**
+  - Alert history stored using **Room** for offline access
 
-Kotlin
+---
 
-Android SDK
+## 🛠 Tech Stack
 
-Firebase Authentication
-
-Firebase Firestore
-
-Firebase Storage
-
-Room (Jetpack)
-
-Google Location Services
-
+```plaintext
+Kotlin  
+Android SDK  
+Firebase Authentication  
+Firebase Firestore  
+Firebase Storage  
+Room (Jetpack)  
+Google Play Services (Location)  
 Material Design Components
-
-Purpose
-
-A lightweight mobile tool for creating, storing, and sharing alert events within a connected user network.
